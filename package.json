@@ -4,6 +4,7 @@
   "description": "CIT262 NodeJS project",
   "main": "index.js",
   "scripts": {
+    "hello": "node helloworld.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David York",
